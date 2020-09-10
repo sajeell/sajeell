@@ -11,6 +11,7 @@ The technologies I am using nowadays are:
 5. GraphQL 
 6. Sequelize
 7. Docker
+8. Angular
 
 
 The databases I use in my web apps are:
