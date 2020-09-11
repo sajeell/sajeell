@@ -3,17 +3,20 @@ My name is Sajeel Ahmad, and I live in Pakistan, GMT+05 Time Zone. I started to 
 
 Today, I am doing content writing, UX writing, UI/UX Development, front end development and back end Development. In short you can call me a full stack developer at a learning stage. 
 
-The technologies I am using nowadays are:
-1. HTML/CSS/SASS/SCSS
-2. Vanilla JavaScript
-3. ReactJS
-4. NodeJS
-5. GraphQL 
-6. Sequelize
-7. Docker
-8. Angular
+I have grip on the following:
 
+* Languages
+1. JavaScript (/TypeScript)
+2. Python
 
-The databases I use in my web apps are:
-1. PostgreSQL
-2. MySQL
+* Frameworks
+1. ReactJS
+2. Angular
+3. Django
+
+* Databases
+1. MySQL
+2. PostgreSQL
+
+* CSS Preprocessors
+1. SASS
