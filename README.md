@@ -5,18 +5,18 @@ Today, I am doing content writing, UX writing, UI/UX Development, front end deve
 
 I have grip on the following:
 
-* Languages
+*Languages*
 1. JavaScript (/TypeScript)
 2. Python
 
-* Frameworks
+*Frameworks*
 1. ReactJS
 2. Angular
 3. Django
 
-* Databases
+*Databases*
 1. MySQL
 2. PostgreSQL
 
-* CSS Preprocessors
+*CSS Preprocessors*
 1. SASS
