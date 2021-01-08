@@ -7,15 +7,11 @@ I have grip on the following:
 
 **Languages**
 1. JavaScript (/TypeScript)
-2. Python
 
 **Frameworks**
 1. ReactJS
-2. Angular
-3. Django
-4. React Native
+2. React Native
 
 **Databases**
-1. MySQL
-2. PostgreSQL
+1. PostgreSQL
 
