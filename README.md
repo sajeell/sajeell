@@ -10,8 +10,14 @@ I have grip on the following:
 
 **Frameworks**
 1. ReactJS
-2. React Native
+2. NodeJS
+3. React Native
+4. GraphQL
 
 **Databases**
 1. PostgreSQL
+
+**Operating Systems**
+1. Ubuntu
+2. Kali Linux
 
