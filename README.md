@@ -11,13 +11,14 @@ I have grip on the following:
 **Frameworks**
 1. ReactJS
 2. NodeJS
-3. React Native
-4. GraphQL
+3. NextJS
+4. Angular
+5. React Native
+6. GraphQL
 
 **Databases**
 1. PostgreSQL
+2. MongoDB
 
 **Operating Systems**
 1. Ubuntu
-2. Kali Linux
-
