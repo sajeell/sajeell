@@ -1,5 +1,5 @@
 ## A LITTLE BIT ABOUT ME
-My name is Sajeel Ahmad, and I live in Pakistan, GMT+05 Time Zone. I believe in ***slow but reliable approach towards learning***
+My name is Sajeel Ahmad, and I live in Pakistan, GMT+05 Time Zone. I believe in ***slow but consistent approach towards learning***
 
 **Languages**
 1. JavaScript (/TypeScript)
