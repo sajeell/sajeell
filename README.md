@@ -1,20 +1,50 @@
-## A LITTLE BIT ABOUT ME
-My name is Sajeel Ahmad, and I live in Pakistan, GMT+05 Time Zone. I believe in ***slow but consistent approach towards learning***
+```
+ __      __  ______  ____    ____    __  __  ____
+/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
+\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
+ \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
+  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
+   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
+    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
-**Languages**
-1. JavaScript (/TypeScript)
+```
 
-**Frameworks**
-1. ReactJS
-2. NodeJS
-3. NextJS
-4. Angular
-5. React Native
-6. GraphQL
+<br />
 
-**Databases**
-1. PostgreSQL
-2. MongoDB
+``` 
+ - 🔭 I'm currently working on developing [quiz system](https://evaly-demo.netlify.app/)!
+ - 🌱 I'm currently learning TypeScript, Stripe Integration and other cool stuff!
+ - 👯 I'm looking to collaborate on full stack web apps!
+ - 🤔 I'm looking for help with Typescript and React
+ - 💬 Ask me about food, TypeScript, JavaScript, React & donuts :3
+ - 📫 How to reach me: 
+      - [discord](https://discord.com/users/sajeel#6388)  
+      - [twitter](https://twitter.com/SajeelA93928713)
+ - 😄 Pronouns: he/him
+```
 
-**Operating Systems**
-1. Ubuntu
+<br />
+
+<br />
+
+```
+## my weekly development breakdown
+```
+
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   46 mins         █████████░░░░░░░░░░░░░░░░   35.98 %
+ReactJS      38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.60 %
+GraphQL      38 mins         ██████████▒░░░░░░░░░░░░░░   38.60 %
+SCSS         25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.65 %
+CSS          10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+```
+
+<!--END_SECTION:waka-->
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=sajeell&theme=nord&no-frame=true&margin-w=10&column=7" />
