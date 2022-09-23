@@ -18,9 +18,10 @@
  - 🤔 I'm looking for help with Typescript and React
  - 💬 Ask me about food, TypeScript, JavaScript, React & donuts :3
  - 📫 How to reach me: 
-      - [discord](https://discord.com/users/sajeel#6388)  
-      - [twitter](https://twitter.com/SajeelA93928713)
-      - [linkedin](https://www.linkedin.com/in/sajeel-ahmad-hassan-072561182/)
+      - https://discord.com/users/sajeel#6388
+      - https://twitter.com/SajeelA93928713
+      - https://www.linkedin.com/in/sajeel-ahmad-hassan-072561182/
+      - https://dribbble.com/realsajeel289
  - 😄 Pronouns: he/him
 ```
 
