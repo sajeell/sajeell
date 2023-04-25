@@ -1,30 +1,20 @@
-```
- __      __  ______  ____    ____    __  __  ____
-/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
-\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
- \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
-  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
-   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
-    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
+# Hi there! 👋 I'm Sajeel Ahmad
 
-```
+I'm a **Software Engineer** with a passion for building **robust** and **scalable** applications that solve real-world problems. I thrive on tackling complex challenges and turning them into elegant solutions that deliver tangible value to users.
 
-<br />
+## My Skills
 
-``` 
- - 🔭 I'm currently working on developing [quiz system](https://evaly-demo.netlify.app/)!
- - 🌱 I'm currently learning TypeScript, Stripe Integration and other cool stuff!
- - 👯 I'm looking to collaborate on full stack web apps!
- - 🤔 I'm looking for help with Typescript and React
- - 💬 Ask me about food, TypeScript, JavaScript, React & donuts :3
- - 📫 How to reach me: 
-      - https://discord.com/users/sajeel#6388
-      - https://twitter.com/SajeelA93928713
-      - https://www.linkedin.com/in/sajeel-ahmad-hassan-072561182/
-      - https://dribbble.com/realsajeel289
- - 😄 Pronouns: he/him
-```
+- **Programming Languages**: Python, JavaScript
+- **Web Development**: HTML, CSS, React, Node.js, Django, Next.js
+- **Database Management**: MySQL, PostgreSQL, MongoDB
 
-<br />
+## What I'm Working On
 
-<img src="https://github-profile-trophy.vercel.app/?username=sajeell&theme=nord&no-frame=true&margin-w=10&column=7" />
+- Building a scalable e-commerce platform using React/Next.js and Node.js
+- Exploring new front-end frameworks and design patterns
+- Improving my skills in data science and machine learning
+
+## Let's Connect
+
+- LinkedIn: [linkedin.com/sajeel](https://www.linkedin.com/in/sajeel-ahmad-hassan-072561182/)
+- Email: [sajeel.ahmad@protonmail.com](mailto:sajeel.ahmad@protonmail.com)
