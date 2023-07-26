@@ -1,3 +1,5 @@
+![Sajeell_Github_Cover](https://github.com/sajeell/sajeell/assets/52258972/da631528-bbef-4b0b-90e8-01389ca4d859)
+
 # Hi there! 👋 I'm Sajeel Ahmad
 
 I'm a **Software Engineer** with a passion for building **robust** and **scalable** applications that solve real-world problems. I thrive on tackling complex challenges and turning them into elegant solutions that deliver tangible value to users.
