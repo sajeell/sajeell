@@ -18,6 +18,6 @@ I'm a **Software Engineer** with a passion for building **robust** and **scalabl
 
 ## Let's Connect
 
-- LinkedIn: [linkedin.com/sajeel](https://www.linkedin.com/in/sajeel-ahmad-hassan-072561182/)
+- LinkedIn: [linkedin.com/sajeel](https://www.linkedin.com/in/sajeel)
 - Email: [sajeel.ahmad@protonmail.com](mailto:sajeel.ahmad@protonmail.com)
 - Portfolio: [https://sajeell.github.io](https://sajeell.github.io)
